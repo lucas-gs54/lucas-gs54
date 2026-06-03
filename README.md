@@ -1,4 +1,4 @@
-# Olá
+# Olá.
 
 Desenvolvedor de Sistemas em formação pela ETEC Dra. Ruth Cardoso, com interesse em desenvolvimento backend, banco de dados e construção de soluções tecnológicas.
 
