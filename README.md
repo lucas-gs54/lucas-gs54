@@ -1,6 +1,6 @@
-# Olá, eu sou [Seu Nome]
+# Olá
 
-Sou Desenvolvedor de Sistemas em formação pela ETEC Dra. Ruth Cardoso, com interesse em desenvolvimento backend, banco de dados e construção de soluções tecnológicas.
+Desenvolvedor de Sistemas em formação pela ETEC Dra. Ruth Cardoso, com interesse em desenvolvimento backend, banco de dados e construção de soluções tecnológicas.
 
 Atualmente estou estudando e praticando:
 
