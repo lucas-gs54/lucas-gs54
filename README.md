@@ -5,7 +5,8 @@ Desenvolvedor de Sistemas em formação pela ETEC Dra. Ruth Cardoso, com interes
 Atualmente estou estudando e praticando:
 
 - C#
-- C++
+- Rust
+- NodeJS
 - SQL
 - Lógica de programação
 - Banco de dados
